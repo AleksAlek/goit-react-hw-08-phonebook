@@ -1,0 +1,12 @@
+header {
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+  background-color: lightblue;
+}
+
+header > .header_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

@@ -1,0 +1,19 @@
+.navigationList {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+
+  list-style: none;
+}
+
+.navigationList_item:not(:last-child) {
+  margin-right: 40px;
+}
+
+.navigationLink {
+  display: inline-block;
+
+  text-decoration: none;
+}

@@ -1,0 +1,23 @@
+.authSection {
+  text-align: center;
+  padding-top: 40px;
+}
+
+.authContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.switchContainer {
+  width: 200px;
+  display: inline-flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+}
+
+.switchOption {
+  color: lightcoral;
+}

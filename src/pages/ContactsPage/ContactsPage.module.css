@@ -1,0 +1,13 @@
+.contactsSection {
+  padding-top: 20px;
+}
+
+.contactsSection > .contactsContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contactsTitle {
+  text-align: center;
+}

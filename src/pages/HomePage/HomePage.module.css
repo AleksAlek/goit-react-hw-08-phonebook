@@ -1,0 +1,9 @@
+.nomePageContainer {
+  text-align: center;
+}
+
+.homePageLink {
+  font-weight: 600;
+  text-decoration: none;
+  color: inherit;
+}
